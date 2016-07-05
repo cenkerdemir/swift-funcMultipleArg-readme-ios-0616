@@ -41,3 +41,13 @@ planetDescription(planet, numberOfMoons: moons)
 planet = "Mars"
 moons = 2
 planetDescription(planet, numberOfMoons: moons)
+
+planet = "Earth"
+moons = 1
+
+planetDescription(planet, numberOfMoons: moons)
+
+planet = "Uranus"
+moons = 27
+
+planetDescription(planet, numberOfMoons: moons)
